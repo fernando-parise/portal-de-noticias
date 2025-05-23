@@ -9,6 +9,7 @@ Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocke
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -29,7 +30,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
+- Git e Github
+- Figma
 
-## Projeto
+## 💻 Projeto
 
 Nesse projeto iremos desenvolver um portal de notícias para praticar o nosso conhecimento com o Grid!
+
+- [Acesse o projeto finalizado, online](https://fernando-parise.github.io/portal-de-noticias/)
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/proto/wkuKW5nOYOmK9Y0zVLyPu6/Portal-de-not%C3%ADcias--Community-?node-id=0-1&t=6AjS1HmdAv5cEqtq-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
